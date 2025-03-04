@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+      <img src="logo .png" alt="LOGO" class="logo">
+    </header>
+
+    <nav>
+        <a href="mission.html">MISSION</a>
+        <a href="vision.html">VISION</a>
+        <a href="values.html">VALUES</a>
+        <a href="program.html">PROGRAM</a>
+    </nav>
+
+    <main>
+        <section>
+
+            <div class="mission-container">
+                <h2>BASIC EDUCATION UNIT</h2>
+                <div class="mission-container">
+                    <h3>ELEMENTARY</h3>
+                </div>
+                <div class="mission-container">
+                    <h3>JUNIOR HIGH SCHOOL</h3>
+                </div>
+                <div class="mission-container">
+                    <h3>SENIOR HIGH SCHOOL</h3>
+                    <ul>
+                        <li>STEM</li>
+                        <li>HUMMS</li>
+                        <li>ABM</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="mission-container">
+                <h2>CASTE</h2>
+                <div class="mission-container">
+                    <ul>
+                        <li>ABEC</li>
+                        <li>BEED</li>
+                        <li>BSED-ENG</li>
+                        <li>BSED-MATH</li>
+                        <li>BSED-SCIE</li>
+                        <li>BSED-VAL.ED.</li>
+                        <li>BSED-BSSW</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="mission-container">
+                <h2>CICS</h2>
+                <div class="mission-container">
+                    <ul>
+                        <li>BSIT</li>
+                        <li>BLIS</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="mission-container">
+                <h2>CBM</h2>
+                <div class="mission-container">
+                    <ul>
+                        <li>BSTM</li>
+                        <li>BSBA</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="mission-container">
+                <h2>CRIM</h2>
+                <div class="mission-container">
+                    <ul>
+                        <li>BSCRIM</li>
+                    </ul>
+                </div>
+            </div>
+
+        </section>
+    </main>
+
+    <div class="footer-container">
+        <footer>
+            <p>&copy; 2025 Saint Joseph College of Baggao. All Rights Reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
