@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+    <style>
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 0 10px;
+        }
+
+        header {
+            background-color: #006400; 
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #228B22;
+            display: flex;
+            justify-content: center;
+            padding: 10px 0;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 12px 20px;
+            margin: 0 15px;
+            font-size: 1.1em;
+            font-weight: 600;
+            transition: background-color 0.3s ease;
+        }
+
+        nav a:hover {
+            background-color: #006400; 
+            border-radius: 5px;
+        }
+
+        main {
+            max-width: 1200px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+
+        .mission-container {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: hsl(0, 0%, 100%);
+            box-shadow: 0 0 10px #8df802;
+            border-radius: 8px;
+          }
+          
+          .mission-container h1 {
+            text-align: center;
+            font-size: 3em;
+            margin-bottom: 20px;
+          }
+          
+          .mission-section {
+            margin-bottom: 20px;
+          }
+          
+          .mission-section h2 {
+            font-size: 1.8em;
+            color: hsl(0, 0%, 0%);
+            margin-bottom: 10px;
+          }
+          
+          .mission-section p {
+            font-size: 1.1em;
+            line-height: 1.6;
+            color: #000000;
+          }
+
+        .title {
+            font-size: 2.5em;
+            font-weight: 700;
+            color: #006400; 
+            margin-bottom: 25px;
+            text-align: center;
+        }
+
+        h3 {
+            font-size: 1.8em;
+            margin-top: 20px;
+            color: #006400;
+        }
+
+        p {
+            font-size: 1.2em;
+            margin-top: 10px;
+            line-height: 1.7;
+            color: #555;
+        }
+        .footer-container {
+            background-color: #000000c5;
+            text-decoration-color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+        }
+
+        @media screen and (max-width: 768px) {
+            header h1 {
+                font-size: 2em;
+            }
+
+            nav a {
+                font-size: 1em;
+                padding: 10px 15px;
+                margin: 0 10px;
+            }
+
+            .content {
+                padding: 15px;
+            }
+
+            .title {
+                font-size: 2em;
+            }
+
+            h3 {
+                font-size: 1.5em;
+            }
+
+            p {
+                font-size: 1em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>SAINT JOSEPH COLLEGE OF BAGGAO</h1>
+    </header>
+    
+    <nav>
+        <a href="mission.html" target="_self">MISSION</a> 
+        <a href="vision.html" target="_self">VISION</a> 
+        <a href="values.html" target="_self">VALUES</a> 
+        <a href="program.html" target="_self">PROGRAM</a> 
+    </nav>
+
+    <main>
+        <section class="content">
+            <h2 class="title">MISSION</h2>
+            
+        </section>
+    </main>
+    
+</body>
+</html>
