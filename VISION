@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Profile</title>
+<link rel="stylesheet" href="style.css">
+     </head>
+  </html>
+
+<html>
+
+<body>
+<header>
+<img src="logo .png" alt="LOGO" class="logo">
+</header>
+
+<nav>
+<a href="mission.html" target="_self">MISSION</a>
+<a href="vision.html" target="_self">VISION</a>
+<a href="values.html" target="_self">VALUES</a>
+<a href="program.html" target="_self">PROGRAM</a>
+
+</nav>
+
+<br>
+<main></main>
+<div class="mission-container">
+    <section class="mission-section">
+<b style="font-size: 300%;">VISION</b>
+<p>SCJB as a premier Higher Eucational Institution in Northern Philippines is Christ-centered inspired by the spirit of the synodality that fosters communion and participation in the evangelizing mission of the Church through transformative education.
+</p>
+</div>
+
+<div class="footer-container">
+    <footer>
+        <p>&copy; 2025 Saint Joseph College of Baggao. All Rights Reserved.</p>
+    </footer>
+</div>
+</body>
+</html>
