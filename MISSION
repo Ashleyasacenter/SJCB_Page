@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mission</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="logo .png" alt="LOGO" class="logo">
+    <nav>
+      <a href="mission.html" target="_self">MISSION</a>
+      <a href="vision.html" target="_self">VISION</a>
+      <a href="values.html" target="_self">VALUES</a>
+      <a href="program.html" target="_self">PROGRAM</a>
+    </nav>
+  </header>
+  
+  <main>
+    <div class="mission-container">
+      <h1>MISSION</h1>
+      <section class="mission-section">
+        <h2>SPIRITUALITY</h2>
+        <ph>
+          To be witness of our faith by cultivating a spirituality rooted on the Word of God, nourished by the sacraments, and lived in humble loving service especially to the poor.
+        </p>
+      </section>
+      <section class="mission-section">
+        <h2>TRANSFORMATIVE EDUCATION</h2>
+        <p>
+          To provide Catholic education leading to a conversion that transforms persons and communities.
+        </p>
+      </section>
+      <section class="mission-section">
+        <h2>ADVOCACY</h2>
+        <p>
+          To uphold the principles of social justice, peace, truth and ecological stewardship towards an engaged citizenship.
+        </p>
+      </section>
+      <section class="mission-section">
+        <h2>RESEARCH</h2>
+        <p>
+          To foster a vibrant and stimulating culture of research.
+        </p>
+      </section>
+      <section class="mission-section">
+        <h2>SYNODALITY</h2>
+        <p>
+          To promote a culture of care, dialogue, and collaboration among all the stakeholders as a dynamic participation in the life and mission of the church.
+        </p>
+      </section>
+    </div>
+  </main>
+
+  <div class="footer-container">
+    <footer>
+        <p>&copy; 2025 Saint Joseph College of Baggao. All Rights Reserved.</p>
+    </footer>
+</div>
+</body>
+</html>
